@@ -79,7 +79,7 @@
           <div class="col-md-8 text-center">
             <h2 class="section-title mb-3" data-aos="fade-up" data-aos-delay="">About Us</h2>
             <p class="lead" data-aos="fade-up" data-aos-delay="100">Royal Vintage (PVT) Ltd. 
-            We import high quality dhal and lentils from our most trusted dealers. Place your orders of your choice. Enjoy Hassle-free retail. Get registered with us.</p>
+            We import high quality dhal and lentils from our most trusted dealers. Place the orders of your choice. Enjoy Hassle-free retail. Get registered with us.</p>
           </div>
         </div>
         <div class="row">
@@ -199,7 +199,7 @@
           <div class="col-md-4 text-center">
             <p class="mb-4">
               <span class="icon-phone d-block h2 text-primary"></span>
-              <a href="#">077-7180747</a>
+              <a href="#">+94777180747</a>
             </p>
           </div>
           <div class="col-md-4 text-center">
